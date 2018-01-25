@@ -1,1 +1,1 @@
-# Competitive-Prog.
+# Competitive-Programming Submissions.
