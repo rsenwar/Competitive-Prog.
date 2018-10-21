@@ -6,8 +6,8 @@ int main() {
 	cin>>n;
 	while(n--)
 	{
+		int arr[26];
 	    cin>>a>>b;
-	    int *arr = new int[26];
 	    for(int i=0;i<a.size();i++)
 	        arr[a[i]-'a']++;
 	    int f = 0;
