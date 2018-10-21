@@ -1,8 +1,4 @@
 #include<bits/stdc++.h>
-#define loop(i,t) for(int i=0;i<t;i++)
-#define MOD 1000000007
-#define vector <int> vi
-#define push_back pb
 typedef long long ll;
 using namespace std;
 int main()
