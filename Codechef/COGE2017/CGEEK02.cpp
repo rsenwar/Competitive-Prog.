@@ -7,7 +7,8 @@ int main(){
  while(t--){
   cin>>s;
   int len = s.length();
-  int c = 1;
+  int c ;
+  c=1;
   char ini = s[0];
   for(int i=1;i<len;i++)
    if(s[i]!=ini){
